@@ -1,0 +1,7 @@
+MCU = atmega32u4
+BOOTLOADER = caterina
+
+VIA_ENABLE = yes
+CONSOLE_ENABLE = yes
+BOOTMAGIC_ENABLE = no
+EXTRAKEY_ENABLE = yes

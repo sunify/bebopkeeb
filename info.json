@@ -1,0 +1,15 @@
+{
+  "name": "BebopKeeb",
+  "vendorId": "0xFAFA",
+  "productId": "0x000F",
+  "lighting": "none",
+  "matrix": {
+    "rows": 1,
+    "cols": 2
+  },
+  "layouts": {
+    "LAYOUT": [
+      ["0,0","0,1"]
+    ]
+  }
+}
